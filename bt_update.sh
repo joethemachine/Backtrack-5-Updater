@@ -4,7 +4,7 @@ echo ================================================================
 echo BackTrack 5 Updater
 echo Updates distribution and several common tools
 echo http://www.rocketcityhackers.com
-echo joethemachine[at]rocketcityhackers.com - 10/28/2011
+echo joethemachine[at]rocketcityhackers.com
 echo ================================================================
 
 
