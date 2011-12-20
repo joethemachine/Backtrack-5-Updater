@@ -4,7 +4,7 @@ echo ================================================================
 echo BackTrack 5 Post Install script 
 echo Installing and performing initial configuration of BackTrack 5
 echo http://www.rocketcityhackers.com
-echo joethemachine[at]rocketcityhackers.com  - 10/28/2011
+echo joethemachine[at]rocketcityhackers.com 
 echo ================================================================
 
 # Backtrack initial setup script
@@ -22,7 +22,7 @@ apt-get -qq update
 
 ## Install additional tools from repository
 echo [+] INSTALLING ADDITIONAL TOOLS 
-apt-get -y -qq install ssh pure-ftpd libmysqlclient-dev hamster tightvncserver python-dev ettercap sendemail vlc netsed arp-scan shutter libssl-dev flashplugin-nonfree-extrasound flashplugin-nonfree mz pyrit oracle-xe-client
+apt-get -y -qq install ssh pure-ftpd libmysqlclient-dev hamster tightvncserver python-dev ettercap sendemail vlc netsed arp-scan shutter libssl-dev flashplugin-nonfree-extrasound flashplugin-nonfree mz pyrit owasp-zap oracle-xe-client
 
 ## Fix SQLMap by removing original and downloading latest dev version
 echo

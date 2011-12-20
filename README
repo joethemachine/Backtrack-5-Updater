@@ -1,7 +1,7 @@
 =======================================================================
 BackTrack 5 Updater Scripts
 
-Version:	0.1			
+Version:	0.2			
 Date:		11-09-2011
 Author:		joethemachine 
 		joethemachine[at]rocketcityhackers.com
@@ -16,10 +16,6 @@ bt_post_install.sh
 Installing and performing initial configuration of BackTrack 5
 Based on Gnome version of Backtrack
 
-
-
-
-
 CHANGE LOG
 
 
@@ -28,6 +24,12 @@ v0.0 - 10-28-2011
 v0.1 - 11-09-2011
 	Clean bt_post_install.sh output
 	Added new additional tools to apt-get install
+v0.2 - 12-20-2011
+	Minor script fixes to bt_post_install.sh
+	Error handling updated in 
+	Project added to github
+	
+	
 
 
 
